@@ -1,7 +1,7 @@
 name: Playwright Tests (Github Pages)
 on:
   push:
-    branches: [master, github-actions]
+    branches: [github-actions]
 
 jobs:
   test:
